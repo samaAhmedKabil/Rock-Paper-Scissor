@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">rock_paper_scissor_game</string>
+    <string name="play_with_other">Play With Other</string>
+    <string name="play_with_computer">Play With Computer</string>
+    <string name="player1">Player 1</string>
+    <string name="player2">Player 2</string>
+    <string name="instructions">
+        Rules: - \n
+          1. Rock wins over Scissor. \n\n
+          2. Paper wins over Rock. \n\n
+          3. Scissor wins over Paper.\n\n
+        Winner: - \n\n
+          Whoever collects all three stars\n\n
+          first will be the winner.\n\n\n
+
+        Best of Luck.. !!
+    </string>
+</resources>
